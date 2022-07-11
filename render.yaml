@@ -30,3 +30,4 @@ services:
 databases:
   - name: strapi
     plan: starter
+    region: singapore
